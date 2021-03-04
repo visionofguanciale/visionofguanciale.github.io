@@ -16,16 +16,20 @@ section {
 a:link {
   color: #dda4a4;
   text-decoration: none;
+  transition: 300ms linear;
 }
 a:visited {
   color: #dda4a4;
   text-decoration: none;
+  transition: 300ms linear;
 }
 a:hover {
   color: #e67c7c;
   text-decoration: none;
+  transition: 300ms linear;
 }
 a:active {
   color: #e67c7c;
   text-decoration: none;
+  transition: 300ms linear;
 }
