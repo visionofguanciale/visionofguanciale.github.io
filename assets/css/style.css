@@ -4,3 +4,20 @@ body {
   font-family: OpenSans,helvetica;
 }
 
+header {
+  margin-bottom: 5rem;
+}
+
+section {
+  margin-bottom: 3rem;
+}
+
+a:link {
+  color: #cccccc;
+}
+a:visited {
+  color: #bbbbbb;
+}
+a:hover {
+  color: #dddddd;
+}
