@@ -14,18 +14,18 @@ section {
 }
 
 a:link {
-  color: #cccccc;
+  color: #dda4a4;
   text-decoration: none;
 }
 a:visited {
-  color: #bbbbbb;
+  color: #dda4a4;
   text-decoration: none;
 }
 a:hover {
-  color: #dddddd;
+  color: #e67c7c;
   text-decoration: none;
 }
 a:active {
-  color: #dddddd;
+  color: #e67c7c;
   text-decoration: none;
 }
